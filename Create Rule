@@ -1,0 +1,6 @@
+Create Rule
+
+Cron expression : 30 02 ? * MON-SAT *
+
+
+AMI Backup Cron expression : 00 2 * * ? 7
